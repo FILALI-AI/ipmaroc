@@ -310,17 +310,13 @@
 @@||githubusercontent.com^$important
 @@||gmail.com^$important
 @@||go.microsoft.com^$important
-@@||google-analytics.com^$important
-@@||google.com^$important
-@@||googleapis.com^$important
-@@||googlesyndication.com^$important
-@@||googletagmanager.com^$important
+@@||www.google.com^$important
+@@||mail.google.com^$important
 @@||gradle.org^$important
 @@||graph.microsoft.com^$important
 @@||graph.windows.net^$important
 @@||gravatar.com^$important
 @@||gstatic.com^$important
-@@||hackerrank.com^$important
 @@||help.kusto.windows.net^$important
 @@||hip.live.com^$important
 @@||holsystems.com^$important
@@ -512,7 +508,6 @@
 @@||phonefactor.net^$important
 @@||pirateproxy.live^$important
 @@||platform.linkedin.com^$important
-@@||play.google.com^$important
 @@||playerConfig.ssapCo^$important
 @@||playerResponse.adPlac^$important
 @@||playerResponse.playerConfig.ssapCo^$important
