@@ -26,6 +26,7 @@
 @@||office365.com^$important
 @@||visualstudio.com^$important
 @@||windows.com^$important
+@@||live.com^$important
 
 # Services Cloud et CDN
 @@||amazonaws.com^$important
