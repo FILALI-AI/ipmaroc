@@ -3,6 +3,10 @@
 @@||mail.google.com^$important
 @@||www.google.fr^$important
 
+#
+@@||cisco.com^$important
+@@||ntp.org^$important
+
 # Microsoft et Services Associés
 @@||015.officeredir.microsoft.com^$important
 @@||1drv.com^$important
