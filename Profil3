@@ -1,5 +1,6 @@
-#moteurs de recherche
+#google
 @@||www.google.com^$important
+@@||mail.google.com^$important
 @@||www.google.fr^$important
 
 # Microsoft et Services Associés
