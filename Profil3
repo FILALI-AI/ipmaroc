@@ -62,7 +62,6 @@
 
 # Outils de Développement
 @@||mysql.com^$important
-@@||mql5.net^$important
 @@||mongodb.com^$important
 @@||sonarsource.com^$important
 @@||studio3t.com^$important
@@ -135,6 +134,8 @@
 @@||packagist.org^$important
 @@||flutter.dev^$important
 @@||pub.dev^$important
+@@||mql5.com^$important
+@@||mql5.net^$important
 @@||wordpress.com^$important
 @@||woocommerce.com^$important
 
